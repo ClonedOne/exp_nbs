@@ -1,4 +1,4 @@
-,company,date,review,cent_t_x,cent_t_y,cent_p_x,cent_p_y,rate,polarity,subjectivity
+id,company,date,review,cent_t_x,cent_t_y,cent_p_x,cent_p_y,rate,polarity,subjectivity
 4325,google,2012,"Great benefit package with lots of free or convenient onsite services. Difficult to get in, and even when you are in, it's still competitive. none",-18.308039,-20.883352,0.02966051882341108,0.0024071487366233227,5.0,0.2333333333333334,0.85
 4326,google,2012,"free perks, cool and wide range of projects, freedom, respect, and trust from colleagues and the company. You get Noogler 15. 15 pounds after joining Google. none",-17.832985,-9.508584,-0.0694753337866768,0.027383557154721436,5.0,0.21666666666666667,0.6166666666666667
 4329,google,2012,-Flexibility -Independence -Great sense of camaraderie There's a bit of a disconnect between product (Eng/PM) and operations. Somewhat bureaucratic. none,-9.306102,1.836769,-0.0695683120742248,-0.015992298136329804,5.0,0.8,0.75
